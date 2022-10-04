@@ -1,0 +1,107 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* div{
+    background-color: blanchedalmond;
+    color: brown;
+    font-size: xx-large;
+    margin: 45px;
+}
+button{
+    background-color: #F29503;
+    padding: 0.5rem 2rem;
+    border-radius: 10px;
+}
+button :hover {
+    color: orange;
+    background-color:whitesmoke;
+}
+.card{
+    width: 18rem
+}
+p{
+    font-size: large;
+}   */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: #503815;
+    height: 100vh;
+  }
+  .flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  .flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main {
+    display: none;
+    background-color: #F6D26D;
+    padding: 2rem 3rem;
+    margin: 2rem 0;
+    border-radius: 10px;
+  }
+  h1 {
+    background-color: white;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    text-align: center;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  input {
+    padding: 0.5rem 2rem;
+    border-radius: 10px;
+  }
+  button {
+    background-color: #F29503;
+    padding: 0.5rem 2rem;
+    border-radius: 10px;
+  }
+  .stats {
+    border-bottom: 5px solid white;
+    width: fit-content;
+    margin: 1rem auto;
+    font-size: 1.5rem;
+  }
+  .img-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+  img {
+    border: 0.5rem solid white;
+    border-radius: 50%;
+  }
+  .ability1,
+  .ability2 {
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
